@@ -3,10 +3,10 @@
 <table>
   <tr>
     <td valign="center">
-      🎓 I am currently pursuing my **Bachelor's in Computer Science Engineering**.
-      🌱 I am currently learning **Java** and also interested in **Web Development**.
-      🎯 My Goal is to Contribute to as many **open source project** as possible.
-      ✨ I love to create different types of **contents**.
+      🎓 I am currently pursuing my **Bachelor's in Computer Science Engineering**./n
+      🌱 I am currently learning **Java** and also interested in **Web Development**./n
+      🎯 My Goal is to Contribute to as many **open source project** as possible./n
+      ✨ I love to create different types of **contents**./n
 <td >
       <a href="https://app.daily.dev/ankurverma125325"><img src="https://api.daily.dev/devcards/e4da97571dec4b3cb4ae27ff51f61e6a.png?r=je9" width="400" alt="Ankur Verma's Dev Card"/></a>
     </td>
