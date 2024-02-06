@@ -8,7 +8,7 @@
       🎯 My Goal is to Contribute to as many **open source project** as possible.
       ✨ I love to create different types of **contents**.
 <td >
-      <a href="https://app.daily.dev/devcard"><img src="https://api.daily.dev/devcards/81fef2c2311f4739a063dbde61b40fe2.png?r=1fr" width="300" alt="Mr Ankur Verma's card"/></a>
+      <a href="https://app.daily.dev/ankurverma125325"><img src="https://api.daily.dev/devcards/e4da97571dec4b3cb4ae27ff51f61e6a.png?r=je9" width="400" alt="Ankur Verma's Dev Card"/></a>
     </td>
     
   </tr>
