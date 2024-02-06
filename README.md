@@ -3,16 +3,15 @@
 <table>
   <tr>
     <td valign="center">
-      * item 1
       🎓 I am currently pursuing my **Bachelor's in Computer 
       Science Engineering**.
-     *item 2
+     
       🌱 I am currently learning **Java** and also interested in 
       **Web Development**.
-      *item3
+      
       🎯 My Goal is to Contribute to as many 
       **open source project** as possible.
-     *item 4
+  
       ✨ I love to create different types of
       **contents**./n
 <td >
